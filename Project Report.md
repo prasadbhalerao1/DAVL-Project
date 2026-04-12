@@ -2,16 +2,13 @@
 **“Data-Driven Financial Behavior Modeling and Prediction System”**
 
 **Submitted by:**
-* Name 1 (PRN No)
-* Name 2 (PRN No.)
-* Name 3 (PRN No.)
-* Name 4 (PRN No.)
+* Prasad Bhalerao (RBT24CB026)
 
 **Under the guidance of:**
-* Prof. [Enter Name]
+* Prof. Bhagyashree Emekar
 
-**Course:** [Enter Course Name]
-**Academic Year:** 2025–26 (Semester __)
+**Course:** Data Analysis And Visualization Lab
+**Academic Year:** 2025–26 (Semester IV)
 
 ---
 
